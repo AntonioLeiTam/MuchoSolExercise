@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "https://challenge.avantio.pro",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
